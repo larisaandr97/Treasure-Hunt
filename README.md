@@ -1,2 +1,2 @@
-# Treasure-Hunt
-OOP Project
+# Treasure-Hunt 
+The game consists in a map on which there are 3 treasures and 4 seekers(players). The seekers are placed in each corner of the map. Each  player can make only one move per round and he cannot step on someone else's square. At the final of every round, it will be displayed the position and the status of every player(he can either be a winner-he found a treasure and therefore he leaves the map or he can be stuck). The game ends when there are no more squares to be explored or the players either cannot more or they have left the map already.
